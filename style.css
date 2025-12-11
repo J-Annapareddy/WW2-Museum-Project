@@ -104,7 +104,7 @@ footer{
     justify-content:center;
 }
 .created-source-items{
-    width:800px;
+    width:600px;
     text-wrap:wrap;
     border: 6px solid darkseagreen;
     border-radius:8px;
@@ -158,5 +158,6 @@ footer{
     overflow-wrap: break-word;
     word-break: break-word;
 }
+
 
 
