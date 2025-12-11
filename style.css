@@ -111,6 +111,7 @@ footer{
     text-align:center;
     padding: 15px;
     margin:15px;
+    border-radius: 8px;
 }
 .created-source-item2{
     display:flex;
@@ -157,3 +158,4 @@ footer{
     overflow-wrap: break-word;
     word-break: break-word;
 }
+
