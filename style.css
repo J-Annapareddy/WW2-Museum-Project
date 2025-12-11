@@ -104,9 +104,10 @@ footer{
     justify-content:center;
 }
 .created-source-items{
+    width:650px;
     text-wrap:wrap;
     border: 6px solid darkseagreen;
-    border-radius:8px;
+    border-radius:16px;
     text-align:center;
     padding: 15px;
     margin:15px;
@@ -118,9 +119,6 @@ footer{
 .created-source-items{
     background-color:darkslategray;
     color:darkseagreen;
-    border: 3px solid darkseagreen;
-    border-radius:8px;
-    width: 650px;
 }
 /* Real Sources Styling */
 .real-sources-container{
@@ -159,6 +157,7 @@ footer{
     overflow-wrap: break-word;
     word-break: break-word;
 }
+
 
 
 
